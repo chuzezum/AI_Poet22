@@ -1,0 +1,4 @@
+python-sotenv
+openai
+langchain
+langchain-openai
